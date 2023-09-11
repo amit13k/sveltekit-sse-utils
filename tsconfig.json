@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "lib",
+    "lib": ["ES6", "DOM"],
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "target": "ES6",
+    "declaration": true,
+    "esModuleInterop": true,
+    "incremental": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+  },
+  "exclude": ["lib", "src/__tests__"]
+}
